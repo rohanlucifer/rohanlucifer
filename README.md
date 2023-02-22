@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanlucifer
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning Devops tools, Different Linux Distriutions
+- 🌱 I’m currently learning Devops tools, Different Linux Distributions
 - 💞️ I’m looking to collaborate on DevOps with a team
 - 📫 Reach me via Github Linkedin 
 ```
